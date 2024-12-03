@@ -1,11 +1,6 @@
 # Mitchell Huitema
 # Dag 1 Advent of Code
 
-# Parse input file to two seperate lists left and right
-# Sort left and right small to large
-# Compare numbers and add difference to new list (diff)
-# Sum diff
-
 file = "input"
 
 def parse_input(input)
