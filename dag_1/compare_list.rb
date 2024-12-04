@@ -37,5 +37,5 @@ end
 
 lists = parse_input(file)
 
-print(calculate_distance(lists[0], lists[1]))
+print(calculate_distance(lists[0], lists[1]), "\n")
 print(compare_lists(lists[0], lists[1]))
